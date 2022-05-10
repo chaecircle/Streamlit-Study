@@ -18,3 +18,24 @@
 
 
 
+### Streamlit API
+
+> 공식문서에 소개된 스트림릿 API를 하나씩 살펴보자. 실습은 test.py 파일에서!
+
+```python
+# 앨리아스 약자로 "st"를 사용함!
+import streamlit as st
+```
+
+
+
+1. __st.write __: 기본적으로 사용되는 명령어. 
+
+> Write arguments to the app.
+>
+> - You can pass in multiple arguments, all of which will be written.
+
+- 사용방법 : `st.write()`
+
+
+
