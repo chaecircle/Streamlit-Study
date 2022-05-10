@@ -37,5 +37,23 @@ import streamlit as st
 
 - 사용방법 : `st.write()`
 
+- 예시:
+
+```python
+import streamlit as st
+
+st.write("Hello, Steamlit!")
+st.write('''
+# Markdown
+## Markdown2
+''')
+```
 
 
+
+2. __st.markdown__
+
+> Display string formatted as Markdown.
+
+- 사용방법 : `st.markdown()`
+- 마크다운 문법이 지원된다. 
