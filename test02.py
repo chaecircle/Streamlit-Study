@@ -19,3 +19,18 @@ st.write(':cry:')
 st.write(':sunglasses:')
 st.write(":moon:")
 
+
+
+############ streamlit의 layout 살펴보기 #############
+
+# 사이드바 옵션
+st.sidebar.selectbox(
+    'Select category.'
+    ('Main Home', 'Category 1', 'Category 2')
+)
+
+
+
+
+
+

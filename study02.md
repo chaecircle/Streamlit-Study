@@ -13,3 +13,6 @@
    - 예시 : `:smile:` `:sunglasses:` `:cry:` `:moon:`
    - 참고 사이트: [**Streamlit emoji shortcodes**](https://share.streamlit.io/streamlit/emoji-shortcodes)
 
+3. streamlit의 layout을 살펴보자 
+   - 관련 명령어 : `st.sidebar` `st.columns` `st.expander` `st.container` `st.empty` 
+
